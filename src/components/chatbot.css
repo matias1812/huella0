@@ -1,0 +1,44 @@
+.round-button {
+    position: relative;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #2FA4FF;
+    margin-left: 80rem
+    ;
+    color: #ffffff;
+    font-size: 16px;
+    border: none;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s;
+    margin-bottom: 5rem;
+    margin-top: 35rem;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+  }
+  
+  .round-button:hover {
+    transform: scale(1.1);
+  }
+  
+  .chat-container {
+    position: relative;
+    bottom: 20px;
+    right: 20px;
+    width: 300px;
+    height: 400px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    display: none;
+  }
+  
+  .input-container *{
+    display: inline-block;
+    align-items: center;
+    margin-right: 2rem;
+  }
+
+  .modalchat{
+    margin-top: 6.5rem;
+  }

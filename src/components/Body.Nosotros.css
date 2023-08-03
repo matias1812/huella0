@@ -1,0 +1,35 @@
+.imagenes1{
+    margin-top: 4rem;
+    width: 1350px;
+    height: 500px;
+}
+
+.ques{
+    margin-left: 2rem;
+}
+
+.descripcion{
+    margin-left: 2rem;
+}
+
+.precentacion{
+    margin-left: 2rem;
+}
+
+.cards{
+    display: flex;
+    flex-direction: row;
+    margin-left: 8rem;
+  }
+
+  .card:hover {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); 
+}
+
+.card{
+  text-align: center;
+  margin: 1rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 1.2); 
+  transition: box-shadow 0.3s; 
+  }
+

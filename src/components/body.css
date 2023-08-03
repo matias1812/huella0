@@ -1,0 +1,132 @@
+.imagenes{
+    margin-top: 4rem;
+    width: 1350px;
+    height: 500px;
+}
+
+.img{
+    width: 1400px;
+    height: 500px;
+}
+
+.round-button {
+    position: relative;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #2FA4FF;
+    margin-left: 80rem
+    ;
+    color: #ffffff;
+    font-size: 16px;
+    border: none;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s;
+    margin-bottom: 5rem;
+    margin-top: 35rem;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 1.2); 
+    transition: box-shadow 0.3s; 
+
+  }
+
+  .round-button:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); 
+  }
+  
+  .round-button:hover {
+    transform: scale(1.1);
+  }
+  
+  .chat-container {
+    position: relative;
+    bottom: 20px;
+    right: 20px;
+    width: 300px;
+    height: 400px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    display: none;
+  }
+  
+  .input-container *{
+    display: inline-block;
+    align-items: center;
+    margin-right: 2rem;
+  }
+
+  .modalchat{
+    margin-top: 6.5rem;
+  }
+
+  .propuesta{
+    margin-left: 2rem;
+  }
+  .descripcion{
+    margin-left: 2rem;
+  }
+  
+  .precentacion{
+    margin-left: 2rem;
+  }
+
+  .cards{
+    display: flex;
+    flex-direction: row;
+    margin-left: 8rem;
+  }
+
+  .card1:hover {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); 
+}
+
+.card1{
+  text-align: center;
+  margin: 1rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 1.2); 
+  transition: box-shadow 0.3s; 
+  }
+
+  .icono1{
+    margin-left: 1rem;
+    fill: chartreuse;
+  }
+
+  .agregar-al-carrito{
+    margin-left: 1rem;
+  }
+
+
+  .propuesta2{
+    margin-top: 1rem;
+    margin-left: 2rem;
+  }
+  .descripcion2{
+    margin-left: 2rem;
+    margin-right: 2rem;
+  }
+
+  .precentacion2{
+    margin-left: 2rem;
+  }
+
+  .cards2{
+    display: flex;
+    flex-direction: row;
+    margin-left: 20rem;
+    
+  }
+  
+  .card2{
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 1.2); 
+    transition: box-shadow 0.3s; 
+    text-align: center;
+    margin: 1rem;
+  }
+
+  .card2:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); 
+  }
+  

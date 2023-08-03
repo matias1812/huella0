@@ -1,0 +1,60 @@
+.header{
+    background-color: #2FA4FF;   
+    position: sticky;
+    top: 6.4rem;    
+    z-index: 999;
+}
+
+.nav-link{
+    color: white;
+  }
+
+.off{
+    background-color: #87b42b;
+}
+
+.more{
+    margin-top: 12.5rem;
+    margin-left: 73.19rem;
+}
+
+.offcanvas{
+    color: white;
+}
+
+.profile-image-nav{
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+    border: 3px solid #2FA4FF;
+    padding: 1px;
+    margin-left: 1rem;
+}
+
+.redesSociales *{
+    display: inline-flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 0.5rem;
+}
+
+.ig{
+    margin-left: 1.5rem;
+    margin-right: 1rem;
+}
+
+.face{
+    margin-right: 1rem;
+}
+
+.tik{
+    margin-right: 1rem;
+}
+
+.whatsapp{
+    margin-left: 1rem;
+}
+
+.cerrar{
+    margin-top: 21.5rem;
+}

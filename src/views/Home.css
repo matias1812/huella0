@@ -1,0 +1,11 @@
+.navbar-fixed-top {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+  .header-sticky-top {
+    position: sticky;
+    top: 0;
+  }
+  
